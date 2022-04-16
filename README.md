@@ -1,1 +1,1 @@
-# javacript-practice-more-color-choices
+# A simple button to change a page's color theme
